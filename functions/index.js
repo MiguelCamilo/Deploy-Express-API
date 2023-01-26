@@ -7,7 +7,7 @@ app.use(cors())
 
 // setup routes
 app.get('/test', (req,res) => {
-    res.send('BIG DATA 🧠')
+    res.send('Deployed Cloud Function✅')
 })
 
 app.get('/test2', (req,res) => {
